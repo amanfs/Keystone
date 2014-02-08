@@ -11,7 +11,7 @@ Clone Instructions
 1. Download `http://code.google.com/p/git-osx-installer`
 2. Fire up `Terminal`. You'll feel like a hacker for it.
 3. Run `git` hit enter, to see if it installed.
-4. If you're good, run `git clone git@github.com:amanfs/Keystone.git`
+4. If you're good, run `git clone git@github.com:<username>/Keystone.git`
 5. It should clone this to your whichever folder you picked. 
 6. You've successfully cloned the application to your computer.
 
