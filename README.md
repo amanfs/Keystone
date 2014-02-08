@@ -25,7 +25,7 @@ To start this build first we are going to need to set up Node
 
 Now once you've installed node, and you're computer has restarted, if prompted to. 
 
-2. Fire up Terminal, you'll feel like a hacker for it, and run 'npm install -g yo'
+2. Fire up Terminal, you'll feel like a hacker for it, and run `npm install -g yo`
 
 `npm is the package manager for Node.js and comes bundled with it.`
 
