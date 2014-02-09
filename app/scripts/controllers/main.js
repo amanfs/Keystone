@@ -2,9 +2,6 @@
 
 angular.module('keystoneApp')
   .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+    $scope.navItems = [{title: 'Home', link: '#'}, {title: 'About', link: '#'}, {title: 'Products', link: '#'}, {title: 'Contact us', link: '#'}];
+    
   });
